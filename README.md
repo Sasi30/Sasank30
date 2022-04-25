@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Sasi30
-- 👀 I’m interested in learning and researching
-- 🌱 I’m currently learning in india
-- 💞️ I’m looking to collaborate on ni
-- 📫 How to reach me ...
+- 👋 Hi my name is Sasank
+
+
 
 <!---
 Sasi30/Sasi30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
